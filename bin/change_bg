@@ -1,0 +1,1 @@
+/usr/local/bin/wal --backend colorz -i /home/marie/Images/Wallpapers/ -e -o "/usr/local/bin/copy_colors_xresources"
